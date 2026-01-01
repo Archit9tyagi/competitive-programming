@@ -1,4 +1,5 @@
-#include <bits/stdc++.h>
+// Cross-platform compatible headers
+#include <iostream>
 using namespace std;
 
 // Fast I/O Template

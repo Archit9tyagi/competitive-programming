@@ -1,4 +1,11 @@
-#include <bits/stdc++.h>
+// Cross-platform compatible headers
+#include <iostream>
+#include <vector>
+#include <set>
+#include <random>
+#include <chrono>
+#include <string>
+#include <utility>
 using namespace std;
 
 // ==================== RANDOM INPUT GENERATOR ====================

@@ -1,4 +1,20 @@
-#include <bits/stdc++.h>
+// Cross-platform compatible headers
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <string>
+#include <map>
+#include <set>
+#include <unordered_map>
+#include <unordered_set>
+#include <queue>
+#include <stack>
+#include <deque>
+#include <cmath>
+#include <climits>
+#include <cstring>
+#include <numeric>
+#include <utility>
 using namespace std;
 
 // ==================== MACROS ====================
@@ -41,7 +57,6 @@ void print_vector(const vector<T>& v) {
 
 void solve() {
     // Your solution here
-    
 }
 
 int main() {

@@ -32,7 +32,9 @@ Output: [1,0]
 Explanation: The array represents 9. Incrementing by one gives 10.
 */
 
-#include <bits/stdc++.h>
+// Cross-platform compatible headers
+#include <iostream>
+#include <vector>
 using namespace std;
 
 class Solution {

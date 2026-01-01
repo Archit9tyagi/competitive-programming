@@ -1,4 +1,9 @@
-#include <bits/stdc++.h>
+// Cross-platform compatible headers
+#include <iostream>
+#include <vector>
+#include <map>
+#include <set>
+#include <string>
 using namespace std;
 
 // ==================== DEBUG UTILITY ====================
