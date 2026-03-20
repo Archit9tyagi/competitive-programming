@@ -8,17 +8,19 @@ int main() {
 
     int count = 0;
     result += data;
+    bool zero = false;
 
     for (int i = 0; i < data.length(); i++) {
         result += data[i];
 
         if (data[i] == '1') {
             count++;
-            if (count == 5) {
+            if (zero && count == 5) {
                 result += '0';
                 count = 0;
             }
         } else {
+            zero = true;
             count = 0;
         }
     }
