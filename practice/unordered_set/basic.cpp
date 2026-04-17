@@ -1,5 +1,4 @@
-#include <iostream>
-#include <unordered_set>
+#include<bits/stdc++17.h>
 using namespace std;
 
 int main() {
