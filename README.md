@@ -181,3 +181,19 @@ Happy Coding! 🚀🔥
 
 **Note:** This repository is continuously updated as I learn and solve more problems.  
 Last updated: 2026-01-01
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Archit9tyagi/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
+## String
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Archit9tyagi/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Archit9tyagi/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
+<!---LeetCode Topics End-->
