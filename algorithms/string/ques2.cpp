@@ -14,12 +14,12 @@
 //     int x = p.size()-1;
 //     string st;
 
-//     for(int i = 0;i<p.size();i++){
-//         st = st + s[i];
+//     for(int k = 0;k<p.size();k++){
+//         st = st + s[k];
 //     }
 //     if(st == p)cnt++;
 
-//     while(x < (int)s.size()-1){
+//     while(x < s.size()-1){
 //         string z;
 //         i++;
 //         x++;
