@@ -188,6 +188,7 @@ Last updated: 2026-01-01
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Archit9tyagi/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Archit9tyagi/competitive-programming/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -196,4 +197,25 @@ Last updated: 2026-01-01
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Archit9tyagi/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Archit9tyagi/competitive-programming/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Array
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Archit9tyagi/competitive-programming/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Archit9tyagi/competitive-programming/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Archit9tyagi/competitive-programming/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Archit9tyagi/competitive-programming/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Archit9tyagi/competitive-programming/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
